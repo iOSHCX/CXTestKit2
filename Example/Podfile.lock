@@ -1,0 +1,16 @@
+PODS:
+  - CXTestKit2 (0.1.0)
+
+DEPENDENCIES:
+  - CXTestKit2 (from `../`)
+
+EXTERNAL SOURCES:
+  CXTestKit2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CXTestKit2: 1350108e4f9485715dde608df409b97b3f3f426c
+
+PODFILE CHECKSUM: 1b6dd0ed66fbd73f98714dd299d5494412b9ebf8
+
+COCOAPODS: 1.11.2
